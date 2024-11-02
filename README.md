@@ -1,6 +1,5 @@
 
 
-```markdown
 # Calculator Project
 
 A simple calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Java for creating a command-line calculator and includes unit tests to ensure functionality.
