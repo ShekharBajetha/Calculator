@@ -2,7 +2,8 @@
 
 # Calculator Project
 
-A simple calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Java for creating a command-line calculator and includes unit tests to ensure functionality.
+A command-line calculator application developed in Java, designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The project serves as a practical example of object-oriented programming principles and includes automated unit tests to ensure accuracy and reliability of calculations. Additionally, it demonstrates the integration of Continuous Integration (CI) practices using Jenkins to maintain code quality and streamline development workflows.
+
 
 ## Features
 - Addition
