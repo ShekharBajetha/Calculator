@@ -26,11 +26,11 @@ A simple calculator application that performs basic arithmetic operations such a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CalculatorProject.git
+   git clone https://github.com/yourusername/Calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd CalculatorProject
+   cd Calculator
    ```
 3. Build the project using Maven:
    ```bash
@@ -40,7 +40,7 @@ A simple calculator application that performs basic arithmetic operations such a
 ## Usage
 To use the calculator, you can run the main class:
 ```bash
-java -cp target/calculator-1.0-SNAPSHOT.jar your.package.name.Calculator
+java -cp target/calculator-1.0-SNAPSHOT.jar org.example.Calculator
 ```
 
 ## Running Tests
@@ -88,6 +88,4 @@ Configure notifications to alert the team about build results via email or chat 
 
 ## Acknowledgments
 - [JUnit](https://junit.org) for the testing framework.
-```
-
 
